@@ -1,4 +1,10 @@
-### Hello!  
+# Welcome to my profile!
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,kotlin,cs,idea,ts,nodejs" />
+  </a>
+</p>
 
 My name is Koblížek and I'm young Java developer, interested in bytecode manipulation and Minecraft modding!  
 - Working with Java for 2+ years currently(fell in love with it :D)
